@@ -129,3 +129,11 @@ body {
   overflow: visible;
   background-color: rgba(18, 28, 29, 0.877);
 }
+
+.vl {
+  border-left: 3px solid green;
+  height: 200px;
+  position: absolute;
+  top: 0;
+  left: 100%;
+}
